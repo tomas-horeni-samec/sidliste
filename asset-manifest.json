@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/sidliste/static/css/main.31488212.chunk.css",
-    "main.js": "/sidliste/static/js/main.3cd6ee20.chunk.js",
-    "main.js.map": "/sidliste/static/js/main.3cd6ee20.chunk.js.map",
+    "main.css": "/sidliste/static/css/main.773eaa12.chunk.css",
+    "main.js": "/sidliste/static/js/main.9286eaf1.chunk.js",
+    "main.js.map": "/sidliste/static/js/main.9286eaf1.chunk.js.map",
     "runtime-main.js": "/sidliste/static/js/runtime-main.0f16d196.js",
     "runtime-main.js.map": "/sidliste/static/js/runtime-main.0f16d196.js.map",
     "static/js/2.28035597.chunk.js": "/sidliste/static/js/2.28035597.chunk.js",
@@ -26,7 +26,7 @@
     "static/js/11.989aeb14.chunk.js": "/sidliste/static/js/11.989aeb14.chunk.js",
     "static/js/11.989aeb14.chunk.js.map": "/sidliste/static/js/11.989aeb14.chunk.js.map",
     "index.html": "/sidliste/index.html",
-    "static/css/main.31488212.chunk.css.map": "/sidliste/static/css/main.31488212.chunk.css.map",
+    "static/css/main.773eaa12.chunk.css.map": "/sidliste/static/css/main.773eaa12.chunk.css.map",
     "static/js/2.28035597.chunk.js.LICENSE.txt": "/sidliste/static/js/2.28035597.chunk.js.LICENSE.txt",
     "static/media/kapitola-druh.md": "/sidliste/static/media/kapitola-druh.bf79d2e7.md",
     "static/media/kapitola-est.md": "/sidliste/static/media/kapitola-est.2ce70b42.md",
@@ -41,7 +41,7 @@
   "entrypoints": [
     "static/js/runtime-main.0f16d196.js",
     "static/js/2.28035597.chunk.js",
-    "static/css/main.31488212.chunk.css",
-    "static/js/main.3cd6ee20.chunk.js"
+    "static/css/main.773eaa12.chunk.css",
+    "static/js/main.9286eaf1.chunk.js"
   ]
 }
