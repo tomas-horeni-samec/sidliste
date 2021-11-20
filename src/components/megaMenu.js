@@ -1,4 +1,5 @@
 import React from 'react';
+import Image from './image';
 
 export default function MegaMenu({
   chapters,
@@ -12,7 +13,7 @@ export default function MegaMenu({
         {chapters.map((text, index) => (
           <a class='image colorful' onClick={() => handleChapter(index)}>
             <h6>{text.author}</h6>
-            <img src={`images/kapitoly/${text.image}`} />
+            <Image path={`/kapitoly/${text.image}`} />
             <h5>{text.title}</h5>
           </a>
         ))}

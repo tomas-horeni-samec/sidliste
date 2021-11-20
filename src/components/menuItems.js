@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-scroll';
 import { slugify } from '../utils/slugify';
+import Image from './image';
 
 export default function MenuItems({ chapters, chapter, handleChapter }) {
   return (
@@ -14,9 +15,9 @@ export default function MenuItems({ chapters, chapter, handleChapter }) {
             onClick={() => handleChapter(index)}
           >
             <div className='menu-image'>
-              <img
-                className={`${text.dark && 'inverted'}`}
-                src={`images/kapitoly/${text.image}`}
+              <Image
+                nameClass={`${text.dark && 'inverted'}`}
+                path={`/kapitoly/${text.image}`}
               />
             </div>
             <div className='dot dot-outside'>
