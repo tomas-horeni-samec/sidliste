@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/sidliste/static/css/main.b1f9b8c5.chunk.css",
-    "main.js": "/sidliste/static/js/main.30c1d41b.chunk.js",
-    "main.js.map": "/sidliste/static/js/main.30c1d41b.chunk.js.map",
+    "main.css": "/sidliste/static/css/main.cab16cb7.chunk.css",
+    "main.js": "/sidliste/static/js/main.739c4457.chunk.js",
+    "main.js.map": "/sidliste/static/js/main.739c4457.chunk.js.map",
     "runtime-main.js": "/sidliste/static/js/runtime-main.0f16d196.js",
     "runtime-main.js.map": "/sidliste/static/js/runtime-main.0f16d196.js.map",
-    "static/js/2.28035597.chunk.js": "/sidliste/static/js/2.28035597.chunk.js",
-    "static/js/2.28035597.chunk.js.map": "/sidliste/static/js/2.28035597.chunk.js.map",
+    "static/js/2.3f1f3938.chunk.js": "/sidliste/static/js/2.3f1f3938.chunk.js",
+    "static/js/2.3f1f3938.chunk.js.map": "/sidliste/static/js/2.3f1f3938.chunk.js.map",
     "static/js/3.f3738f40.chunk.js": "/sidliste/static/js/3.f3738f40.chunk.js",
     "static/js/3.f3738f40.chunk.js.map": "/sidliste/static/js/3.f3738f40.chunk.js.map",
     "static/js/4.47c66f10.chunk.js": "/sidliste/static/js/4.47c66f10.chunk.js",
@@ -26,8 +26,8 @@
     "static/js/11.989aeb14.chunk.js": "/sidliste/static/js/11.989aeb14.chunk.js",
     "static/js/11.989aeb14.chunk.js.map": "/sidliste/static/js/11.989aeb14.chunk.js.map",
     "index.html": "/sidliste/index.html",
-    "static/css/main.b1f9b8c5.chunk.css.map": "/sidliste/static/css/main.b1f9b8c5.chunk.css.map",
-    "static/js/2.28035597.chunk.js.LICENSE.txt": "/sidliste/static/js/2.28035597.chunk.js.LICENSE.txt",
+    "static/css/main.cab16cb7.chunk.css.map": "/sidliste/static/css/main.cab16cb7.chunk.css.map",
+    "static/js/2.3f1f3938.chunk.js.LICENSE.txt": "/sidliste/static/js/2.3f1f3938.chunk.js.LICENSE.txt",
     "static/media/kapitola-druh.md": "/sidliste/static/media/kapitola-druh.bf79d2e7.md",
     "static/media/kapitola-est.md": "/sidliste/static/media/kapitola-est.2ce70b42.md",
     "static/media/kapitola-prvn.md": "/sidliste/static/media/kapitola-prvn.fc418ba4.md",
@@ -40,8 +40,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0f16d196.js",
-    "static/js/2.28035597.chunk.js",
-    "static/css/main.b1f9b8c5.chunk.css",
-    "static/js/main.30c1d41b.chunk.js"
+    "static/js/2.3f1f3938.chunk.js",
+    "static/css/main.cab16cb7.chunk.css",
+    "static/js/main.739c4457.chunk.js"
   ]
 }
