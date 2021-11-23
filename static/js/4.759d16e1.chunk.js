@@ -1,0 +1,2 @@
+(this.webpackJsonpsjmp=this.webpackJsonpsjmp||[]).push([[4],{38:function(s,p,t){"use strict";t.r(p),p.default=t.p+"static/media/kapitola-druh.bf79d2e7.md"}}]);
+//# sourceMappingURL=4.759d16e1.chunk.js.map

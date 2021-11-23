@@ -41,3 +41,11 @@ Pojmy gentrifikace a financializace bydlení je tedy nutné vnímat spíše jako
 - Usuzovat zde můžeme spíše nepřímo. Typickou mladou rodinu, která přicházela na sídliště, obvykle tvořili manželé narození v 50. či 60. letech (a jejich děti). Podíl vysokoškoláků v této generační kohortě bydlících na pražských sídlištích tvořil v letech 1991, 2001 i 2011 přibližně 25 %. Jinými slovy, data ze Sčítání lidu, domů a bytů neukazují, že by v průběhu prvních dvaceti let po roce 1989 vysokoškoláci dané generace ze sídliště odcházeli.
 
 - Usuzovat zde můžeme spíše nepřímo. Typickou mladou rodinu, která přicházela na sídliště, obvykle tvořili manželé narození v 50. či 60. letech (a jejich děti). Podíl vysokoškoláků v této generační kohortě bydlících na pražských sídlištích tvořil v letech 1991, 2001 i 2011 přibližně 25 %. Jinými slovy, data ze Sčítání lidu, domů a bytů neukazují, že by v průběhu prvních dvaceti let po roce 1989 vysokoškoláci dané generace ze sídliště odcházeli.
+
+<div class="divider"></div>
+
+_Tomáš Hoření Samec_ je sociolog působící na Sociologickém ústavu AV ČR, v. v. i., zaměřuje se na výzkum financializace bydlení a na nové formy bydlení realizované veřejnými a kolektivními autory.
+
+_Václav Orcígr_ je sociolog a ekolog, působí v neziskové organizaci Arnika a na Fakultě sociálních věd Univerzity Karlovy dokončuje postgraduální studium se zaměřením na urbánní sociologii.
+
+_Michal Lehečka_ je sociální antropolog působící na Fakultě humanitních studií Univerzity Karlovy a ve spolcích Anthropictures a AutoMat. Ve svém výzkumu se zaměřuje na podoby rozvoje současných měst střední a východní Evropy s důrazem na veřejný prostor panelových sídlišť.
