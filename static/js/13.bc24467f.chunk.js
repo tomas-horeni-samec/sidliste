@@ -1,0 +1,2 @@
+(this.webpackJsonpsjmp=this.webpackJsonpsjmp||[]).push([[13],{65:function(s,p,t){"use strict";t.r(p),p.default=t.p+"static/media/displacement.93e1b220.md"}}]);
+//# sourceMappingURL=13.bc24467f.chunk.js.map

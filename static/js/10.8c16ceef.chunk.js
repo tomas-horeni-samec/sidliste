@@ -1,2 +1,0 @@
-(this.webpackJsonpsjmp=this.webpackJsonpsjmp||[]).push([[10],{61:function(t,s,p){"use strict";p.r(s),s.default=p.p+"static/media/kapitola-tvrt.6d63dd47.md"}}]);
-//# sourceMappingURL=10.8c16ceef.chunk.js.map
