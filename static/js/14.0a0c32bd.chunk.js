@@ -1,2 +1,0 @@
-(this.webpackJsonpsjmp=this.webpackJsonpsjmp||[]).push([[14],{66:function(s,t,e){"use strict";e.r(t),t.default=e.p+"static/media/gentrifikace.b62e604c.md"}}]);
-//# sourceMappingURL=14.0a0c32bd.chunk.js.map

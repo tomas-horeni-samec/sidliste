@@ -1,2 +1,0 @@
-(this.webpackJsonpsjmp=this.webpackJsonpsjmp||[]).push([[16],{68:function(s,p,t){"use strict";t.r(p),p.default=t.p+"static/media/privatismus.91ef7763.md"}}]);
-//# sourceMappingURL=16.4af10444.chunk.js.map
