@@ -1,2 +1,0 @@
-(this.webpackJsonpsjmp=this.webpackJsonpsjmp||[]).push([[9],{48:function(t,s,p){"use strict";p.r(s),s.default=p.p+"static/media/kapitola-tet.865eb136.md"}}]);
-//# sourceMappingURL=9.89160086.chunk.js.map
