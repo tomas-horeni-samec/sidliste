@@ -30,7 +30,33 @@ $colors: (
 .bg-black {
   color: white;
 }
+.bg-white {
+  background-color: white;
+}
 
 .inverted {
   filter: invert(1);
+}
+
+.bg-grad-gray {
+  background-image: linear-gradient(white, #f3f3f3);
+}
+
+.filter-purple {
+  filter: brightness(0) invert(34%) sepia(27%) saturate(6791%)
+    hue-rotate(241deg) brightness(99%) contrast(98%);
+}
+.filter-red {
+  filter: brightness(0) invert(38%) sepia(99%) saturate(1312%)
+    hue-rotate(334deg) brightness(100%) contrast(103%);
+}
+.filter-pink {
+  filter: brightness(0) invert(39%) sepia(30%) saturate(3169%)
+    hue-rotate(294deg) brightness(81%) contrast(92%);
+}
+.filter-black {
+  filter: brightness(0);
+}
+.filter-white {
+  filter: brightness(0) invert(1);
 }

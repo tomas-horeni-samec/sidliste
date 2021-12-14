@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-scroll';
+import { Link } from 'react-router-dom';
 import { slugify } from '../utils/slugify';
 import Image from './image';
 
@@ -7,7 +7,12 @@ export default function MenuItems({ chapters, chapter, handleChapter }) {
   return (
     <div className='side-bottom'>
       {chapters.map((text, index) => (
-        <Link to={slugify(text.type)} smooth={true} duration={1000}>
+        <Link
+          to={`/chapter/${slugify(text.type)}`}
+          smooth={true}
+          duration={1000}
+          key={index}
+        >
           <div
             className={`side-item flex-center-hor ${
               chapter === index ? 'animation' : ''

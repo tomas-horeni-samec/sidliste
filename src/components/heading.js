@@ -1,12 +1,15 @@
 import React from 'react';
 import { Image } from './';
 
-const Heading = ({ lines }) => {
+const Heading = ({ text, color }) => {
   return (
-    <section className='flex-center full' style={{ flexDirection: 'column' }}>
-      {lines.map((line) => (
-        <div className='flex-center letters'>
-          {line.split('').map((letter) => (
+    <div
+      className={`flex-center`}
+      style={{ flexWrap: 'wrap', alignContent: 'center' }}
+    >
+      {text.split(' ').map((word) => (
+        <div className={`flex-center letters filter-${color}`}>
+          {word.split('').map((letter) => (
             <Image
               path={`/pismena/${letter}.png`}
               nameClass={`letter-${letter}`}
@@ -14,7 +17,7 @@ const Heading = ({ lines }) => {
           ))}
         </div>
       ))}
-    </section>
+    </div>
   );
 };
 export default Heading;

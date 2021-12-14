@@ -1,0 +1,71 @@
+/* hamburger menu */
+.menu-box {
+  width: 30px;
+  overflow: auto;
+  .line {
+    margin-bottom: 6px;
+    background-color: white;
+    height: 2px;
+  }
+}
+.long {
+  width: 30px;
+}
+.supershort {
+  width: 16px;
+}
+.short {
+  width: 22px;
+}
+
+.animated:hover .long {
+  animation: long 1000ms;
+}
+.animated:hover .supershort {
+  animation: supershort 1000ms;
+}
+.animated:hover .short {
+  animation: short 1000ms;
+}
+@keyframes long {
+  0% {
+    width: 30px;
+    animation-timing-function: ease-out;
+  }
+  50% {
+    width: 0px;
+    animation-timing-function: ease-out;
+  }
+  100% {
+    width: 30px;
+    animation-timing-function: ease-in;
+  }
+}
+@keyframes short {
+  0% {
+    width: 22px;
+  }
+  25% {
+    width: 30px;
+  }
+  66% {
+    width: 0px;
+  }
+  100% {
+    width: 22px;
+  }
+}
+@keyframes supershort {
+  0% {
+    width: 18px;
+  }
+  40% {
+    width: 30px;
+  }
+  75% {
+    width: 0px;
+  }
+  100% {
+    width: 18px;
+  }
+}

@@ -2,18 +2,17 @@
   {
     "title": "Pražská panelová sídliště jako místa protikladů",
     "name": "Pražská panelová sídliště<br/>jako <b>místa protikladů</b>",
-    "author": "Tomáš Hoření Samec, Petr Gibas",
+    "author": ["Petr Gibas", "Tomáš Hoření Samec"],
     "type": "úvod",
     "dark": true,
     "image": "01.png",
-
     "text": "Pražská panelová sídliště jsou místa, kde se protíná mnoho protikladů: na jednu stranu jsou ceněna pro to, že zajistila praktické a relativně málo nákladné bydlení pro velký počet obyvatel, na druhou stranu byla často kritizována pro mnoho dílčích nedostatků i pro svůj celkový urbanistický koncept. Pro své obyvatele se mohou zdát jako místa, která se příliš nemění, místa, která jsou v jistém smyslu známá a obyčejná. Tato zdánlivá neměnnost se projevuje především v ustálenosti majetkových vztahů, kdy převažuje soukromé a družstevní vlastnictví bytů. To také souvisí s neměnností ve vztahu k sociálnímu a ekonomickému statusu obyvatel, kdy pražská sídliště jsou místem, kde stále bydlí střední třída."
   },
   {
     "title": "Proměny a protiklady pražských sídlišť optikou teoretických konceptů",
     "name": "<b>Proměny a protiklady</b><br/>pražských sídlišť",
     "type": "Kapitola První",
-    "author": "Michal Lehečka, Tomáš Hoření Samec a Václav Orcígr",
+    "author": ["Michal Lehečka", "Tomáš Hoření Samec", "Václav Orcígr"],
     "image": "02.png",
     "text": "Procesy, které souvisejí s proměnou měst, by bylo nemožné adekvátně popsat bez použití teoretických pojmů, které umožňují pojmenovat, zobecnit a porovnávat různé procesy a odhalovat i jejich případnou protikladnost. V této kapitole se proto zaměřujeme na možnost, zda a jak lze aplikovat pojmy gentrifikace a financializace bydlení na realitu pražských sídlišť, protože dané pojmy odkazují na procesy, které se uskutečňují v celé řadě evropských metropolí. Co tyto pojmy popisují? Jsou vhodné pro český, respektive pražský kontext, když byly vytvořeny v kontextu anglosaských měst? Co nám mohou pomoci objasnit a co naopak může jejich používání zakrývat?"
   },
@@ -21,7 +20,7 @@
     "title": "Střední třída na pražských sídlištích",
     "name": "<b>Střední třída</b><br/>na pražských sídlištích",
     "type": "Kapitola Druhá",
-    "author": "Ondřej Špaček",
+    "author": ["Ondřej Špaček"],
     "image": "03.png",
     "text": "Sociální a demografický charakter panelových sídlišť byl v českém kontextu do značné míry utvořen v momentě jejich vzniku, respektive v prvních letech jejich obydlování. Sídliště přitom nebyla výjimečná jen svým rozsahem, ale především tím, že tehdejší bytová politika silně preferovala při rozdělování zdejších nových bytů zejména mladé rodiny. V důsledku toho byla pro nově vzniklá sídliště typická velmi specifická skladba obyvatelstva, které dominovali mladí dospělí a malé děti. To určovalo jejich charakter nejen v počátcích, ale také v průběhu dalších let až do současnosti v podobě postupně se posouvající demografické vlny16. Způsob přidělování sídlištních bytů mimo jiné vedl k tomu, že na panelové sídliště přicházely rodiny ze všech sociálních tříd, možná i s mírnější preferencí žádaných vysokoškolsky kvalifikovaných profesí či vhodnými stranickým konexemi17. Střední třída18 tak představuje nezanedbatelnou část příběhu pražských panelových sídlišť. Vysokoškolsky vzdělané rodiny v nově vystavěných sídlištích přitom lze poměrně spolehlivě chápat jako příslušníky dobře postavené střední třídy tehdejší československé společnosti. V celé generaci lidí narozených mezi roky 1945-1965, která tvoří hlavní část tehdejších nových příchozích na sídliště, dosahovalo vysokoškolského vzdělání pouze 10-15 %, v Praze to pak v dané generaci bylo zhruba 20-25%19. Vysokoškolské vzdělání tedy bylo stále poměrně značně výběrové a můžeme ho chápat jako znak dobrého statusu. V tomto textu tedy skrz zaměření se na vysokoškoláky na sídlištích budeme sledovat příběh sídliště jako bydlení dobře postavených"
   },
@@ -30,7 +29,7 @@
     "name": "Panelová sídliště <br/><b>ve filmu v období státního socialismu</b>",
 
     "type": "Kapitola Třetí",
-    "author": "Michaela Janečková",
+    "author": ["Michaela Janečková"],
     "image": "04.png",
     "text": "Abychom mohli pochopit, proč se po roce 1989 často mluvilo o panelových sídlištích s určitým despektem, je nutné popsat, jak byla zobrazována v populární kultuře v období státního socialismu, kdy nejprve zaznívaly hlasy nadšení, ale postupně sílily ty kritické. Tato kapitola se proto zaměřuje na zobrazování sídlišť ve filmech a dokumentech v období 1948–1989."
   },
@@ -38,7 +37,7 @@
     "title": "Proměny pražských sídlišť okem fotografa",
     "name": "Proměny pražských sídlišť<br/><b>okem fotografa</b>",
     "type": "Kapitola Čtvrtá",
-    "author": "Tomáš Princ",
+    "author": ["Tomáš Princ"],
     "image": "05.png",
     "dark": true,
     "text": "Nejviditelnější proměny sídlišť jsou spojené s demolicí starých domů a novou výstavbou. Zateplení a různobarevné natření fasád paneláků bylo jistě velkým zásahem do vizuality sídlišť, ale když se dnes procházím po Stodůlkách, kde jsem vyrostl, tak si v první řadě všímám nových budov. Ty jsou, zejména před samotnou výstavbou a v jejím průběhu, pro místní obyvatele spojené s nostalgií po tom, co bylo, respektive s obavami z toho, co se chystá. Fotografie na této dvoustraně zobrazují průběh demolice kina Ládví, v sedmdesátých letech zvaného Moskva, bytový dům Prokopský vrch nedaleko stanice metra Lužiny a v nedávné době postavený obchodní a rezidenční komplex Luka Living v těsné blízkosti stanice Luka. S posledně jmenovaným domem mám ambivalentní pocity spojené já sám - v oblasti jsem vyrostl a dlouho žil, a na tuto novou dominantu jsem si dodnes nepřivykl. Obchodní část centra v oblasti nepochybně rozšířila množství dostupných obchodů a služeb, ale když od metra míříte pěšky k panelové zástavbě, tak vám komplex v uliční úrovni nabídne jen pohled na řadu reklamních billboardů na své fasádě. Zároveň budova ční vysoko nad okolní zástavbou. Ač na místě již nežiji, tak si troufám tvrdit, že ohromné fyzické rozměry v tomto případě neodpovídají symbolické, ale ani ryze praktické důležitosti, jakou má pro rezidenty okolního panelového sídliště. Zároveň jsem v žádné nové zástavbě, kterou jsem při pořizování fotografií pro tuto publikaci procházel, neviděl ani jedinou novou budovu školky, školy nebo lékařské kliniky. Občanská vybavenost se tak, co se týče nové výstavby, omezuje na druhy služeb, které mají přinášet zisk, a to i na úkor služeb, jež by místní obyvatelé nutně potřebovali."
@@ -47,7 +46,7 @@
     "title": "Od domova k investici: sídliště Písnice jako symbol historické proměny funkce bydlení",
     "name": "<b>Od domova k investici:</b><br/>sídliště Písnice",
     "type": "Kapitola Pátá",
-    "author": "Apolena Rychlíková",
+    "author": ["Apolena Rychlíková"],
     "image": "06.png",
     "text": "Výstup z metra na pražském Kačerově připomíná svým charakterem spíše nějaké z východoevropských měst než běžně známé prostředí české metropole. Na neudržovaných autobusových zastávkách se mačkají lidé a čekají na autobusy, které je rozvezou do okolních čtvrtí. Míří na okraj Prahy, tam, kam ani více než třicet let od roku 1989 nebyla dovedena plánovaná linka metra D. Jeden z autobusů má konečnou stanici na sídlišti Písnice, situovaném mezi Modřanskou roklí a proslulou vietnamskou tržnicí Sapa. Toto menší sídliště, jehož kořeny sahají až do sedmdesátých let, svým pohnutým osudem dokonale ilustruje, jaký charakter může nabývat proměna společenského vztahu k tak zásadní otázce, jakou je bydlení. Na sídlišti Písnice se ukazuje, co to znamená, když se ze základní podmínky pro kvalitní život důsledkem politických a ekonomických změn stává nejen obchodní, ale také investiční artikl, který sociální funkci domova potlačuje. Během několika let se charakter sídliště dramaticky změnil. Co všechno zůstalo ve stínu této radikální proměny? Především osudy těch, kteří tu po léta tvořili sousedské komunity a vnímali Písnici jako svůj vlastní domov."
   },
@@ -55,7 +54,7 @@
     "title": "Jihozápadní Město jako nový domov: etnická různorodost na pražských sídlištích",
     "name": "<b>etnická různorodost</b><br/>na pražských sídlištích",
     "type": "Kapitola Šestá",
-    "author": "Alžběta Medková",
+    "author": ["Alžběta Medková"],
     "image": "07.png",
     "text": "Od doby svého vzniku v sobě panelová sídliště spojují dvě zdánlivě protikladné ideje. První je představa o sociální a ekonomické rovnosti jejich obyvatel, plynoucí především z podobných proporcí a charakteristik přidělovaných bytů. Druhou je myšlenka, že na sídlištích může být dosaženo toho, aby spolu v jedné čtvrti bydleli zástupci různých profesí: dělníci, inženýři, řemeslníci i profesoři. Tuto profesní různorodost svých obyvatel si pražská sídliště uchovala až do současnosti, zároveň se na nich v posledních letech objevuje nový typ různorodosti: etnické či národností. Narušení etnické a národnostní homogenity společnosti je jedním z mnoha důsledků transformačních procesů po roce 1989 a hlavní město Praha, disponující rozmanitým pracovním trhem, se stalo pro řadu cizinců místem, kde mohli hledat nový domov. Tato kapitola se zaměřuje na to, jak nově příchozí nachází domov na pražském Jihozápadním Městě, a na to, jak se nová různorodost na daných sídlíštích (ne)projevuje."
   },
@@ -63,7 +62,7 @@
     "title": "Černý Most a jeho čekání na revitalizaci",
     "name": "Černý Most a jeho<br/><b>čekání na revitalizaci</b>",
     "type": "Kapitola Sedmá",
-    "author": "Barbora Matysová",
+    "author": ["Barbora Matysová"],
     "image": "08.png",
     "text": "Ten pocit [z přestěhování se na Černý Most] byl super, protože se mi splnilo to mý bydlení, protože jsem najednou dostala byt 3 + 1, kdy předtím jsem bydlela v hodně malém bytě. Co jsem se bála, tak to byly finance, protože ty se řeší pořád, ale pracovně jsme to v pohodě dali. Krásný bydlení, dostupnost, bylo tady to obchodní centrum, obyvatelka sídliště Černý Most, 53 let"
   },
@@ -71,7 +70,7 @@
     "title": "Protiklady, a co dál?",
     "name": "<b>Protiklady,</b><br/> a co dál?",
     "type": "Závěr",
-    "author": "Tomáš Hoření Samec, Petr Gibas",
+    "author": ["Tomáš Hoření Samec, Petr Gibas"],
     "image": "09.png",
     "dark": true,
     "text": "Pražská panelová sídliště jsme v této publikaci představili jako místa protikladů, které je možné vnímat na různých rovinách: na rovině materiální, kde se v prostoru sídlišť potkává staré s novým, původní s revitalizovaným a kde jsou volné plochy zastavovány novými budovami; na rovině emocionální, kdy lidé různě vnímají materiální proměny sídliště a různě na ně reagují; na rovině symbolické, kde se potkávají různé významy spojené se sídlišti a bydlením; a také na rovině sociální, kde jsou sídliště vnímána jako relativně neměnná, co se týče ekonomického statusu jejich obyvatel, kdy se však zároveň objevují nové vrstvy různorodosti (například etnické) a dochází také k proměnám finanční dostupnosti bydlení na pražských sídlištích, která může přinášet i proměnu sociální struktury sídlišť."

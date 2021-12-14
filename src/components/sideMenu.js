@@ -1,11 +1,17 @@
 import React from 'react';
-import { MenuItems } from '.';
+import { Image, MenuItems } from '.';
+import { HashLink as Link } from 'react-router-hash-link';
 
 const SideMenu = ({ handleOpen, chapters, handleChapter, chapter }) => {
   return (
     <div class='side'>
       <div className='side-inner'>
-        <div>
+        <div className='inner-top'>
+          <Link to='/#kapitoly'>
+            <div className='menu-image'>
+              <Image nameClass={`'menu-image'`} path={`/kapitoly/01.png`} />
+            </div>
+          </Link>
           <div className='animated menu-box' onClick={() => handleOpen(true)}>
             <div className='line short'></div>
             <div className='line supershort'></div>

@@ -1,5 +1,7 @@
 import React from 'react';
 import Image from './image';
+import { Link } from 'react-router-dom';
+import { slugify } from '../utils/slugify';
 
 export default function MegaMenu({
   chapters,
@@ -11,11 +13,14 @@ export default function MegaMenu({
     <div onClick={() => handleOpen(false)}>
       <div className={`${open && 'open'} menu-full flex-center-hor`}>
         {chapters.map((text, index) => (
-          <a class='image colorful' onClick={() => handleChapter(index)}>
+          <Link
+            to={`/chapter/${slugify(text.type)}`}
+            onClick={() => handleChapter(index)}
+          >
             <h6>{text.author}</h6>
             <Image path={`/kapitoly/${text.image}`} />
             <h5>{text.title}</h5>
-          </a>
+          </Link>
         ))}
       </div>
     </div>
