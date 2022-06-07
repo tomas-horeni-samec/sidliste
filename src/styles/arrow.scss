@@ -28,7 +28,7 @@
 }
 
 .framed {
-  flex-grow: 1;
+  flex-grow: 0;
   background-image: linear-gradient(135deg, blueviolet 50%, transparent 51%);
   @media (max-width: 1200px) {
     display: none;
