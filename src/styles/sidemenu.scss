@@ -60,7 +60,11 @@
 .side-bottom {
   width: var(--menu-width);
   .side-item:hover .hidden {
-    margin-left: 0;
+    margin-left: -75px;
+  }
+  .side-item:hover .menu-image {
+    filter: brightness(0);
+    transition-duration: 350ms;
   }
   .menu-image {
     width: var(--menu-width);
@@ -82,9 +86,11 @@
     margin-left: -500px;
     transition: ease 750ms;
     z-index: -2;
+    text-align: right;
     p {
       margin: 0;
       line-height: 1.2;
+      padding-left: 24px;
     }
     .hidden-in {
       background-color: white;
