@@ -2,6 +2,9 @@
 .menu-box {
   width: 30px;
   overflow: auto;
+  @media (min-width: 600px) {
+    display: none;
+  }
   .line {
     margin-bottom: 6px;
     background-color: white;

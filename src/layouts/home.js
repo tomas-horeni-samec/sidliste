@@ -28,7 +28,7 @@ export default function Home() {
             <iframe
               width="560"
               height="315"
-              src="https://www.youtube.com/embed/ix2svQ1M_sU"
+              src="https://www.youtube.com/embed/vxQu5vWlmHE"
               title="YouTube video player"
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -39,7 +39,7 @@ export default function Home() {
             <iframe
               width="560"
               height="315"
-              src="https://www.youtube.com/embed/jh_ukt8g53c"
+              src="https://www.youtube.com/embed/8xktVUGZzWs"
               title="YouTube video player"
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -50,7 +50,7 @@ export default function Home() {
             <iframe
               width="560"
               height="315"
-              src="https://www.youtube.com/embed/jh_ukt8g53c"
+              src="https://www.youtube.com/embed/Rjg--Vx3sZg"
               title="YouTube video player"
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -68,7 +68,15 @@ export default function Home() {
         <div className={`menu-full flex-center-hor static`}>
           {chapters.map((text) => (
             <Link to={`/chapter/${slugify(text.type)}`}>
-              <h6>{text.author}</h6>
+              <h6>
+                {text.author.map((aut, index) =>
+                  index === text.author.length - 1 ? (
+                    <span key={index}>{aut}</span>
+                  ) : (
+                    <span key={index}>{aut}, </span>
+                  )
+                )}
+              </h6>
               <Image path={`/kapitoly/${text.image}`} />
               <h5>{text.title}</h5>
             </Link>
