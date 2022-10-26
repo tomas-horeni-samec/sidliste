@@ -4,16 +4,16 @@ V postsocialistickém období 90. let 20. století došlo v České republice k 
 
 #### Zdroje a další doporučená četba
 
-- Dvořák, T. (2009.) Bytové družstvo: převody družstevní bytů a další aktuální otázky. Praha: Nakladatelství C.H.Beck.
+Dvořák, T. (2009.) Bytové družstvo: převody družstevní bytů a další aktuální otázky. Praha: Nakladatelství C.H.Beck.
 
-- Guzik, H., (ed). (2017) Bydlet spolu: kolektivní domy v českých zemích a Evropě ve 20. století. Řevnice: Arbor vitae. 287 stran. 
+Guzik, H., (ed). (2017) Bydlet spolu: kolektivní domy v českých zemích a Evropě ve 20. století. Řevnice: Arbor vitae. 287 stran. 
 
-- Guzik, H. (2018). „Bytové družstevnictví: Velké naděje a nenaplněné ambice,“ Pp. 46–53 in K. Pučerová, M. Kohout, D. Tichý (eds.). Jak jsme chtěli bydlet: Bytová politika Československa 1918 – 1938. Praha: ARCHITECTURA & Galerie Jaroslava Fragnera
+Guzik, H. (2018). „Bytové družstevnictví: Velké naděje a nenaplněné ambice,“ Pp. 46–53 in K. Pučerová, M. Kohout, D. Tichý (eds.). Jak jsme chtěli bydlet: Bytová politika Československa 1918 – 1938. Praha: ARCHITECTURA & Galerie Jaroslava Fragnera
 
-- Janečková, M., Lehkoživová, I., a Novotná, E. (2020). Karel Prager a Družstvo pro výstavbu rodinných domků s ateliéry. Kostelec nad Černými lesy. Archiv výtvarného umění. 
+Janečková, M., Lehkoživová, I., a Novotná, E. (2020). Karel Prager a Družstvo pro výstavbu rodinných domků s ateliéry. Kostelec nad Černými lesy. Archiv výtvarného umění. 
 
-- Lux, M. (2001). „History and Challenges of ‘Social’ Rental Housing in the Czech Republic.“ Social Housing in Europe 2000, 33.
+Lux, M. (2001). „History and Challenges of ‘Social’ Rental Housing in the Czech Republic.“ Social Housing in Europe 2000, 33.
 
-- Ouředníček, M., Špačková, P., Pospíšilová, L. (2018). „Long-term development and current socio-spatial differentiation of housing estates in Prague, Czechia.“ Pp. 339–359 in Housing Estates in Europe. Cham: Springer.
+Ouředníček, M., Špačková, P., Pospíšilová, L. (2018). „Long-term development and current socio-spatial differentiation of housing estates in Prague, Czechia.“ Pp. 339–359 in Housing Estates in Europe. Cham: Springer.
 
-- Šmídová, O. (1996). „Vlastnictví a kvazi-vlastnictví za socialismu a jejich postsocialistická mutace.“ Pp. 115–136 in Původní a noví vlastníci. Strategie nabývání majetku ve střední a východní Evropě.
+Šmídová, O. (1996). „Vlastnictví a kvazi-vlastnictví za socialismu a jejich postsocialistická mutace.“ Pp. 115–136 in Původní a noví vlastníci. Strategie nabývání majetku ve střední a východní Evropě.
